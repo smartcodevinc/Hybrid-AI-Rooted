@@ -1,0 +1,5 @@
+numpy>=1.21
+matplotlib>=3.4
+tensorflow>=2.10
+scikit-learn>=1.0
+tqdm>=4.62
